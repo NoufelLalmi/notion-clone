@@ -1,5 +1,5 @@
 <template>
-    <component :is="layout"> 
+    <component class="font-sans" :is="layout"> 
         <slot>
             
         </slot>
